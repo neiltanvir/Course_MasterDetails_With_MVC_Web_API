@@ -1,0 +1,8 @@
+{
+"CourseId": 11,
+"CourseCode": 101,
+"StudentName": "Adil",
+"StartDate": "01-11-2024",
+"IsRegular": "true",
+"CourseDetails": [{"ModuleId":1},{"ModuleId":3}]
+}
